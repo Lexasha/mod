@@ -1,0 +1,108 @@
+{
+    "bot": {
+        "owner": "555367428951900163",
+        "prefix": ",",
+        "BotStatus": "ЯRoyal | Mod",
+        "BotFooter": "",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "975544312257458176",
+            "log": "974135977931059220",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "channel": "",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "975544589781971016",
+            "roles": "975544589781971016",
+            "log": "974135977931059220",
+            "limit": 5
+        },
+            "voicemute": {
+            "staff": "975544656211353680",
+            "roles": "975544656211353680",
+            "log": "974135977931059220",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "975545241828466738",
+            "log": "974135977931059220"
+        },
+        "transport": {
+            "staff": "862315547320254464"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "taglog": "",
+        "rollog": "",
+        "messagelog": "",
+        "seslog": "975774999656943677"
+    },
+    "roles": {
+        "booster": "972225399620763668",
+        "vip": "974036194809761842",
+        "sponsor": "",
+        "müzisyen": "",
+        "team": ""
+    },
+    "channels": {
+        "chat": "974123155255877702",
+        "voicechannel": "974425649995477012",
+        "welcomechannel": "",
+        "rules": "870747209124184064"
+    },
+    "kategoriler": {
+        "publickategorisi": "870743919040794625"
+    },
+    "registration": {
+        "unregistered": "862312162352955412",
+        "man": ["862041930200645678", "974513349939331102"],
+        "woman": ["862041930148610063", "974513349939331102"],
+        "yetkilialim": "",
+		"botcommands": "862324656617947136",
+        "staff": "",
+        "enaltyetkilirolü": "862315152745300008",
+        "GuilDTag": "",
+        "GuilDTag2": "",
+        "GuilDTag3": "",
+        "GuilDTag4": "",
+        "TagSymbol": "",
+        "autonickname": "İsim | Yaş",
+        "symbol": "'",
+        "suspecios": "974008105807536129",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "yasaklıtag": "",
+        "oneman": "862041930200645678",
+        "onewoman": "862041930148610063",
+        "GuildDiscrim": "",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "862041930148610058",
+        "GuilDName": "ЯRoyal ✦",
+        "GuildOwnerRole": ["870577915316801576"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": "a:tikk:974033915234877491",
+        "no": "a:noo:974033906825306112"
+    },
+        "buttons": {
+            "giveaway": "975803735794135101",
+            "activity": "975804025805099039"
+        }
+    }
